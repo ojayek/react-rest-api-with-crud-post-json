@@ -1,0 +1,18 @@
+@import "https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css";
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.nav-link {
+  color: #fff;
+}
+.collapse {
+  display: block !important;
+}
+
+.item-list {
+  padding: 2% 0;
+  list-style-type: none;
+}
